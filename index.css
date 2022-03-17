@@ -1,3 +1,9 @@
+body
+{
+    background-color: green !important;
+    min-height: 100vh;
+}
+
 nav
 {
     background-color: red;
@@ -22,7 +28,11 @@ h1
 
     text-align: center;
 }
-h3
+.home .description
 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
     word-wrap:break-word;
+    border: 10px solid red;
 }
