@@ -1,0 +1,25 @@
+nav
+{
+    background-color: red;
+    color:burlywood;
+}
+nav ul
+{
+    display:flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-around
+
+}
+body
+{
+    background-color: burlywood;
+}
+h1
+{
+    color:gray
+}
+.home
+{
+    background-color: blue;
+}
