@@ -1,25 +1,28 @@
 nav
 {
     background-color: red;
-    color:burlywood;
 }
+
 nav ul
 {
     display:flex;
     flex-direction: row;
     list-style-type: none;
     justify-content: space-around
+}
 
-}
-body
+main
 {
-    background-color: burlywood;
+    background-color: lightblue;
+    text-align: center;
 }
+
 h1
 {
-    color:gray
+
+    text-align: center;
 }
-.home
+h3
 {
-    background-color: blue;
+    word-wrap:break-word;
 }
