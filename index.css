@@ -1,12 +1,11 @@
 body
 {
-    background-color: green !important;
-    min-height: 100vh;
+    background-color: green;
 }
 
 nav
 {
-    background-color: red;
+    background-color;
     border: 1px solid black
 }
 
@@ -25,7 +24,7 @@ main
 
 h1
 {
-    margin: 60px 20px 60px 20px;
+    margin-top: 30px;
     text-align: center;
     border: 1px solid black
 }
@@ -39,7 +38,7 @@ h2
 
 h3
 {
-    margin: 20px;
+    margin: 50px;
     text-align: center;
     border: 1px solid black
 }
